@@ -1,0 +1,847 @@
+-----Program Executed at: 06-07-2024 10:57:10 AM-----
+Program runtime: 0.0762 seconds
+Program: SL-1RMML6DC-2
+Destination Machine: R-24
+SL-1RMML6DC-2 Files copied to R-24
+
+-----Program Executed at: 06-07-2024 10:51:50 AM-----
+Program runtime: 2.26516 seconds
+Program: SL-1RMML6DC-2
+Destination Machine: R-24
+Program Status: SL-1RMML6DC-2 Folder Empty--Email Sent
+
+-----Program Executed at: 06-07-2024 10:51:15 AM-----
+Program runtime: 5.38471 seconds
+Program: SL-1RMML6DC-2
+Destination Machine: R-24
+Program Status: New Program Needed - SL-1RMML6DC-2--Email Sent
+
+-----Program Executed at: 06-07-2024 10:49:39 AM-----
+Program runtime: 2.07585 seconds
+Program: SL-1RMML6DC-2
+Destination Machine: R-24
+Program Status: New Program Needed - SL-1RMML6DC-2--Email Sent
+
+-----Program Executed at: 06-07-2024 10:48:19 AM-----
+Program runtime: 1.76048 seconds
+Program: SL-1RMML6DC-2
+Destination Machine: R-24
+Program Status: R-24 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 06-07-2024 10:47:56 AM-----
+Program runtime: 2.02067 seconds
+Program: SL-1RMML6DC-2
+Destination Machine: W-201
+Program Status: New Program Needed - SL-1RMML6DC-2--Email Sent
+
+-----Program Executed at: 06-07-2024 10:42:26 AM-----
+Program runtime: 5.80738 seconds
+Program: SL-1RMML6DC-2
+Destination Machine: W-201
+Program Status: New Program Needed - SL-1RMML6DC-2--Email Sent
+
+-----Program Executed at: 06-07-2024 10:35:32 AM-----
+Program runtime: 2.12239 seconds
+Program: SL-1RMML6DC-2
+Destination Machine: W-201
+Program Status: New Program Needed - SL-1RMML6DC-2 item - SL-1MMDC--Email Sent
+
+-----Program Executed at: 06-07-2024 10:33:19 AM-----
+Program runtime: 5.33532 seconds
+Program: SL-1RMML6DC-2
+Destination Machine: W-201
+Program Status: New Program Needed - SL-1RMML6DC-2 item - SL-1MMDC--Email Sent
+
+-----Program Executed at: 06-07-2024 10:17:07 AM-----
+Program runtime: 5.05456 seconds
+Program: SL-1RMML6DC-2
+Destination Machine: R-201
+Program Status: New Program Needed - SL-1RMML6DC-2--Email Sent
+
+-----Program Executed at: 06-07-2024 10:11:45 AM-----
+Program runtime: 2.03374 seconds
+Program: SL-1MMDC
+Destination Machine: R-201
+Program Status: New Program Needed - SL-1MMDC--Email Sent
+
+-----Program Executed at: 06-07-2024 08:57:11 AM-----
+Program runtime: 5.12128 seconds
+Program: SL-1RMML6DC-2
+Destination Machine: R-201
+Program Status: New Program Needed - SL-1RMML6DC-2--Email Sent
+
+-----Program Executed at: 06-07-2024 08:41:46 AM-----
+Program runtime: 1.90816 seconds
+Program: SL-1RMMl6DC-2
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-07-2024 08:37:24 AM-----
+Program runtime: 5.3642 seconds
+Program: SL-1RMMl6DC-2
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 06-07-2024 08:35:26 AM-----
+Program runtime: 2.37421 seconds
+Program: SL-1RMMl6DC-2
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 06-07-2024 08:24:14 AM-----
+Program runtime: 2.55185 seconds
+Program: SL-1MMDC
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-07-2024 08:16:35 AM-----
+Program runtime: 5.68566 seconds
+Program: SL-1RMMDC
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-07-2024 08:15:23 AM-----
+Program runtime: 1.8312 seconds
+Program: SL-1RMMl6DC-2
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-07-2024 08:13:07 AM-----
+Program runtime: 6.21162 seconds
+Program: SL-1RMMDC-2
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-07-2024 08:08:32 AM-----
+Program runtime: 2.10323 seconds
+Program: 101-000
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-07-2024 08:07:36 AM-----
+Program runtime: 6.40908 seconds
+Program: 100-000
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-07-2024 07:48:29 AM-----
+Program runtime: 8.08873 seconds
+Program: SL-1mml120dc-2
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 03:30:00 PM-----
+Program runtime: 2.68549 seconds
+Program: SL-1mml6dc-2
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 03:20:02 PM-----
+Program runtime: 5.1131 seconds
+Program: SL-1mml6dc
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 03:13:40 PM-----
+Program runtime: 2.06862 seconds
+Program: S-mml6dc
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 03:04:59 PM-----
+Program runtime: 2.42949 seconds
+Program: SL-ml6dc
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 01:59:24 PM-----
+Program runtime: 5.19029 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 01:58:42 PM-----
+Program runtime: 6.22128 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 01:50:48 PM-----
+Program runtime: 1.90758 seconds
+Program: SL-1MMLDC-2
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 09:30:07 AM-----
+Program runtime: 2.73482 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 09:28:43 AM-----
+Program runtime: 5.80955 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 09:27:59 AM-----
+Program runtime: 2.32197 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 09:26:49 AM-----
+Program runtime: 0.1901 seconds
+Program: 104-0473
+Destination Machine: R-201
+104-0473 Files copied to R-201
+
+-----Program Executed at: 06-06-2024 09:24:50 AM-----
+Program runtime: 2.08144 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 09:20:48 AM-----
+Program runtime: 2.10269 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 08:42:11 AM-----
+Program runtime: 1.82069 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 08:39:25 AM-----
+Program runtime: 2.39239 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 08:25:16 AM-----
+Program runtime: 5.70675 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 06-06-2024 08:23:08 AM-----
+Program runtime: 1.75587 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 06-06-2024 08:22:23 AM-----
+Program runtime: 5.92475 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 06-06-2024 08:20:00 AM-----
+Program runtime: 5.61776 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 06-06-2024 08:11:46 AM-----
+Program runtime: 2.25687 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 06-06-2024 08:09:05 AM-----
+Program runtime: 2.11887 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 06-06-2024 08:06:50 AM-----
+Program runtime: 5.10925 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-06-2024 07:26:22 AM-----
+Program runtime: 6.73249 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 02:45:51 PM-----
+Program runtime: 2.52411 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 02:45:11 PM-----
+Program runtime: 12.53143 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 01:17:10 PM-----
+Program runtime: 5.89936 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 01:14:55 PM-----
+Program runtime: 2.25932 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 01:04:41 PM-----
+Program runtime: 1.89402 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 01:04:24 PM-----
+Program runtime: 6.11091 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 09:26:25 AM-----
+Program runtime: 2.09791 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 09:25:59 AM-----
+Program runtime: 1.9478 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 09:25:34 AM-----
+Program runtime: 5.67711 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 09:23:59 AM-----
+Program runtime: 5.85871 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 09:21:12 AM-----
+Program runtime: 2.38495 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 09:20:56 AM-----
+Program runtime: 2.4803 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 09:19:36 AM-----
+Program runtime: 5.16028 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 09:02:05 AM-----
+Program runtime: 0.15824 seconds
+Program: 104-0473
+Destination Machine: R-201
+104-0473 Files copied to R-201
+
+-----Program Executed at: 06-05-2024 09:00:23 AM-----
+Program runtime: 2.00854 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 06-05-2024 08:58:20 AM-----
+Program runtime: 3.35298 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-31-2024 01:24:01 PM-----
+Program runtime: 6.15641 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-31-2024 01:08:53 PM-----
+Program runtime: 3.3286 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-29-2024 03:27:36 PM-----
+Program runtime: 5.8135 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-29-2024 03:26:50 PM-----
+Program runtime: 5.5754 seconds
+Program: 104-047
+Destination Machine: R-201
+Program Status: New Program Needed - 104-047--Email Sent
+
+-----Program Executed at: 05-29-2024 03:26:28 PM-----
+Program runtime: 7.18223 seconds
+Program: 104-047
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 09:50:55 AM-----
+Program runtime: 9.03679 seconds
+Program: 104-047
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 09:46:40 AM-----
+Program runtime: 2.33373 seconds
+Program: 104-047
+Destination Machine: R-201
+Program Status: New Program Needed - 104-047--Email Sent
+
+-----Program Executed at: 05-22-2024 09:45:56 AM-----
+Program runtime: 2.35422 seconds
+Program: 104-047
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 09:45:32 AM-----
+Program runtime: 2.603 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 09:43:30 AM-----
+Program runtime: 4.08621 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 09:28:27 AM-----
+Program runtime: 2.31732 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 09:23:44 AM-----
+Program runtime: 2.60408 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 09:19:10 AM-----
+Program runtime: 2.50295 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 09:08:24 AM-----
+Program runtime: 2.58413 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 09:07:10 AM-----
+Program runtime: 2.43715 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 09:04:50 AM-----
+Program runtime: 2.35582 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 09:00:23 AM-----
+Program runtime: 5.36741 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 08:55:03 AM-----
+Program runtime: 5.68464 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 08:53:07 AM-----
+Program runtime: 2.90671 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 08:50:43 AM-----
+Program runtime: 5.37131 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 08:48:23 AM-----
+Program runtime: 2.37558 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 08:45:46 AM-----
+Program runtime: 2.45944 seconds
+Program: 104-0473
+Destination Machine: R-20
+Program Status: R-20 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-22-2024 08:39:38 AM-----
+Program runtime: 2.19653 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-22-2024 08:38:45 AM-----
+Program runtime: 0.11922 seconds
+Program: 104-0473
+Destination Machine: R-201
+104-0473 Files copied to R-201
+
+-----Program Executed at: 05-22-2024 08:38:01 AM-----
+Program runtime: 0.16384 seconds
+Program: 104-0473
+Destination Machine: R-201
+104-0473 Files copied to R-201
+
+-----Program Executed at: 05-22-2024 08:37:28 AM-----
+Program runtime: 5.87875 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-22-2024 08:33:13 AM-----
+Program runtime: 2.37862 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-22-2024 08:30:49 AM-----
+Program runtime: 2.66212 seconds
+Program: 104-0473
+Destination Machine: W-201
+Program Status: Item Assigned To Walter machine--Email Sent
+
+-----Program Executed at: 05-22-2024 08:28:33 AM-----
+Program runtime: 2.45463 seconds
+Program: 104-0473
+Destination Machine: W-201
+Program Status: Item Assigned To Walter machine--Email Sent
+
+-----Program Executed at: 05-22-2024 08:19:36 AM-----
+Program runtime: 3.60135 seconds
+Program: 104-0473
+Destination Machine: W-201
+Program Status: Item Assigned To Walter machine--Email Sent
+
+-----Program Executed at: 05-21-2024 01:53:00 PM-----
+Program runtime: 5.66565 seconds
+Program: 104-0473
+Destination Machine: W-201
+Program Status: Item Assigned To Walter machine--Email Sent
+
+-----Program Executed at: 05-21-2024 01:52:21 PM-----
+Program runtime: 2.39714 seconds
+Program: 104-0473
+Destination Machine: W-76
+Program Status: Item Assigned To Walter machine--Email Sent
+
+-----Program Executed at: 05-21-2024 01:29:14 PM-----
+Program runtime: 2.29386 seconds
+Program: 104-0473
+Destination Machine: W-76
+Program Status: Item Assigned To Walter machine--Email Sent
+
+-----Program Executed at: 05-21-2024 01:28:22 PM-----
+Program runtime: 2.06265 seconds
+Program: 104-0473
+Destination Machine: R-76
+Program Status: R-76 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-21-2024 01:25:35 PM-----
+Program runtime: 2.28168 seconds
+Program: 104-0473
+Destination Machine: R-76
+Program Status: R-76 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-21-2024 01:06:33 PM-----
+Program runtime: 3.18436 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: R-201 Machine File Path Missing--Email Sent
+
+-----Program Executed at: 05-21-2024 11:53:50 AM-----
+Program runtime: 2.21894 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Program Currently Open--Email Sent
+
+-----Program Executed at: 05-21-2024 11:43:22 AM-----
+Program runtime: 11.71147 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Program Currently Open--Email Sent
+
+-----Program Executed at: 05-21-2024 11:43:16 AM-----
+Program runtime: 6.13488 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 11:27:20 AM-----
+Program runtime: 4.4676 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Program Currently Open--Email Sent
+
+-----Program Executed at: 05-21-2024 11:27:18 AM-----
+Program runtime: 2.61486 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 11:14:30 AM-----
+Program runtime: 0.13623 seconds
+Program: 104-0473
+Destination Machine: R-201
+104-0473 Files copied to R-201
+
+-----Program Executed at: 05-21-2024 10:59:22 AM-----
+Program runtime: 2.3213 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Program Currently Open--Email Sent
+
+-----Program Executed at: 05-21-2024 10:55:03 AM-----
+Program runtime: 2.5521 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 10:54:00 AM-----
+Program runtime: 0.12669 seconds
+Program: 104-0473
+Destination Machine: R-201
+104-0473 Files copied to R-201
+
+-----Program Executed at: 05-21-2024 10:53:26 AM-----
+Program runtime: 0.19966 seconds
+Program: 104-0473
+Destination Machine: R-201
+104-0473 Files copied to R-201
+
+-----Program Executed at: 05-21-2024 10:20:31 AM-----
+Program runtime: 24.08634 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 10:20:28 AM-----
+Program runtime: 21.83277 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 10:20:26 AM-----
+Program runtime: 19.88527 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 10:20:24 AM-----
+Program runtime: 17.93081 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 10:20:22 AM-----
+Program runtime: 15.55496 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 10:20:20 AM-----
+Program runtime: 13.52007 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 10:20:18 AM-----
+Program runtime: 11.16796 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 10:20:12 AM-----
+Program runtime: 5.80535 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 10:09:08 AM-----
+Program runtime: 2.10149 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 10:08:02 AM-----
+Program runtime: 6.16788 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 10:06:42 AM-----
+Program runtime: 2.28745 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 10:02:01 AM-----
+Program runtime: 1.95639 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 09:59:54 AM-----
+Program runtime: 2.87354 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 09:50:15 AM-----
+Program runtime: 0.22773 seconds
+Program: 104-0473
+Destination Machine: R-201
+104-0473 Files copied to R-201
+
+-----Program Executed at: 05-21-2024 08:34:59 AM-----
+Program runtime: 5.64034 seconds
+Program: 104-04
+Destination Machine: A-201
+Program Status: A-201 File Path Missing--Email Sent
+
+-----Program Executed at: 05-21-2024 08:33:55 AM-----
+Program runtime: 2.66976 seconds
+Program: 104-04
+Destination Machine: W-201
+Program Status: New Program Needed - 104-04--Email Sent
+
+-----Program Executed at: 05-21-2024 08:30:35 AM-----
+Program runtime: 5.30114 seconds
+Program: 104-0473
+Destination Machine: W-201
+Program Status: Walter Machine Assigned Item--Email Sent
+
+-----Program Executed at: 05-21-2024 08:28:05 AM-----
+Program runtime: 2.334 seconds
+Program: 104-0473
+Destination Machine: W-201
+Program Status: Unknown Machine Assigned Item--Email Sent
+
+-----Program Executed at: 05-21-2024 08:27:00 AM-----
+Program runtime: 2.30012 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-21-2024 08:20:17 AM-----
+Program runtime: 6.23217 seconds
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-21-2024 08:04:14 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Error--Email Sent
+
+-----Program Executed at: 05-21-2024 08:02:07 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-21-2024 07:57:00 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-21-2024 07:54:02 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-16-2024 02:57:03 PM-----
+Program: 104-0473
+Destination Machine: R-201
+104-0473 Files copied to R-201
+
+-----Program Executed at: 05-16-2024 02:55:38 PM-----
+Program: 104-0473
+Destination Machine: R-201
+104-0473 Files copied to R-201
+
+-----Program Executed at: 05-16-2024 02:04:53 PM-----
+Program: 104-0473
+Destination Machine: R-201
+104-0473 Files copied to R-201
+
+-----Program Executed at: 05-16-2024 02:04:03 PM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Update Needed - File Outdated--Email Sent
+
+-----Program Executed at: 05-16-2024 11:57:24 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: 104-0473 Folder Empty--Email Sent
+
+-----Program Executed at: 05-16-2024 11:56:38 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: 104-0473 Folder Empty--Email Sent
+
+-----Program Executed at: 05-16-2024 11:42:35 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: 104-0473 Folder Empty--Email Sent
+
+-----Program Executed at: 05-16-2024 11:41:43 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: R-201 File Path Missing--Email Sent
+
+-----Program Executed at: 05-16-2024 11:12:52 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: New Program Needed - 104-0473--Email Sent
+
+-----Program Executed at: 05-16-2024 11:00:38 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: R-201 File Path Missing--Email Sent
+
+-----Program Executed at: 05-16-2024 10:56:50 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: R-201 File Path Missing--Email Sent
+
+-----Program Executed at: 05-16-2024 10:34:04 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Program Already Checked--Email Sent
+
+-----Program Executed at: 05-16-2024 10:32:25 AM-----
+Program: 104-0473
+Destination Machine: R-201
+Program Status: Program Already Checked--Email Sent
+
