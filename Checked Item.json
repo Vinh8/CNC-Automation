@@ -1,0 +1,22 @@
+{
+    "checked_item_details": [
+        {
+            "key": "SL-1RMML6DC-2R-201",
+            "Checked Item": "SL-1RMML6DC-2",
+            "Assigned Machine": "R-201",
+            "Date": "06-07-2024 10:17:02"
+        },
+        {
+            "key": "SL-1RMML6DC-2W-201",
+            "Checked Item": "SL-1RMML6DC-2",
+            "Assigned Machine": "W-201",
+            "Date": "06-07-2024 10:47:54"
+        },
+        {
+            "key": "SL-1RMML6DC-2R-24",
+            "Checked Item": "SL-1RMML6DC-2",
+            "Assigned Machine": "R-24",
+            "Date": "06-07-2024 10:57:10"
+        }
+    ]
+}
